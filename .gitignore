@@ -1,0 +1,10 @@
+output/
+dl/
+sstate-cache/
+tmp/
+build/
+*.ko
+*.dtb
+*.wic
+*.img
+
